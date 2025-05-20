@@ -10,12 +10,13 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "node-fetch": "^3.3.0",
-    "puppeteer": "^21.0.0",
+    "puppeteer": "^21.11.0",
     "qrcode-terminal": "^0.12.0",
     "sentiment": "^5.0.2",
     "whatsapp-web.js": "^1.23.0"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x",
+    "npm": "9.x"
   }
 }
